@@ -1,0 +1,989 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\obj\\Release\\net8.0\\linux-x64\\scopedcss\\projectbundle\\BlinkApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlinkApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\css\\sb-admin-2.css",
+      "PackagePath": "staticwebassets\\admin\\css\\sb-admin-2.css"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\css\\sb-admin-2.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\sb-admin-2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\img\\undraw_posting_photo.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\undraw_posting_photo.svg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\img\\undraw_profile.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\undraw_profile.svg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\img\\undraw_profile_1.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\undraw_profile_1.svg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\img\\undraw_profile_2.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\undraw_profile_2.svg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\img\\undraw_profile_3.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\undraw_profile_3.svg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\img\\undraw_rocket.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\undraw_rocket.svg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\js\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\admin\\js\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\js\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\admin\\js\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\js\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\admin\\js\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\js\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\admin\\js\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\js\\sb-admin-2.js",
+      "PackagePath": "staticwebassets\\admin\\js\\sb-admin-2.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\js\\sb-admin-2.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\sb-admin-2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\chart.js\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\chart.js\\Chart.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\chart.js\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\chart.js\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\chart.js\\Chart.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\chart.js\\Chart.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\datatables\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\datatables\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\datatables\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\datatables\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\datatables\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\datatables\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\datatables\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\datatables\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\datatables\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\datatables\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\datatables\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\datatables\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\jquery-easing\\jquery.easing.compatibility.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\jquery-easing\\jquery.easing.compatibility.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\jquery-easing\\jquery.easing.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\jquery-easing\\jquery.easing.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\jquery-easing\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\jquery-easing\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\admin\\vendor\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\admin\\vendor\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\admin\\vendor\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\css\\LineIcons.3.0.css",
+      "PackagePath": "staticwebassets\\assets\\css\\LineIcons.3.0.css"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\css\\tiny-slider.css",
+      "PackagePath": "staticwebassets\\assets\\css\\tiny-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\fonts\\LineIcons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\fonts\\LineIcons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\fonts\\LineIcons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\fonts\\LineIcons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\fonts\\LineIcons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\about\\about-image.png",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\about-image.png"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\about\\app-ss1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\app-ss1.svg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\about\\app-ss2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\app-ss2.svg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\about\\shape1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\shape1.svg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\about\\shape2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\shape2.svg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\blog\\11048403-ad73-4b4b-b7f1-04fba0c8e16fimg3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\11048403-ad73-4b4b-b7f1-04fba0c8e16fimg3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\blog\\b4f2b711-efe6-434c-b8c1-dda014114d3a.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\b4f2b711-efe6-434c-b8c1-dda014114d3a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\blog\\blog-single.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-single.png"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\blog\\c62afb5b-7b13-436f-b66e-b2cc38bc2649.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\c62afb5b-7b13-436f-b66e-b2cc38bc2649.png"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\blog\\comment1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\comment1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\blog\\comment3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\comment3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\blog\\d0d32d7b-db1f-4985-86ad-2f1eb548f6b1sara.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\d0d32d7b-db1f-4985-86ad-2f1eb548f6b1sara.png"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\blog\\e11241a8-c396-40c9-8a99-fa234b438a3bsara.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\e11241a8-c396-40c9-8a99-fa234b438a3bsara.png"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\blog\\e9b05f27-3380-47f0-8975-9b2a0d791c64img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\e9b05f27-3380-47f0-8975-9b2a0d791c64img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\blog\\facd1952-9531-444b-bd83-76572524898bimg3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\facd1952-9531-444b-bd83-76572524898bimg3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\call-action\\bg-shape.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\call-action\\bg-shape.svg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\client-logo\\graygrids-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client-logo\\graygrids-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\client-logo\\lineicons-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client-logo\\lineicons-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\client-logo\\pagebulb-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client-logo\\pagebulb-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\client-logo\\uideck-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client-logo\\uideck-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\favicon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.svg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\hero\\app.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero\\app.svg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\hero\\image.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero\\image.svg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\logo\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\team\\team1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\team\\team2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\team\\team3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\testimonial\\shape-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial\\shape-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\testimonial\\shape-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial\\shape-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\testimonial\\testi-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial\\testi-1.png"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\testimonial\\testi-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial\\testi-2.png"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\testimonial\\testi-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial\\testi-3.png"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\images\\why-choose\\why-choose.png",
+      "PackagePath": "staticwebassets\\assets\\images\\why-choose\\why-choose.png"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\js\\count-up.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\count-up.min.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\js\\tiny-slider.js",
+      "PackagePath": "staticwebassets\\assets\\js\\tiny-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\assets\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\R\\Desktop\\BlinkApp\\BlinkApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\linux-x64\\staticwebassets\\msbuild.BlinkApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\linux-x64\\staticwebassets\\msbuild.build.BlinkApp.props",
+      "PackagePath": "build\\BlinkApp.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\linux-x64\\staticwebassets\\msbuild.buildMultiTargeting.BlinkApp.props",
+      "PackagePath": "buildMultiTargeting\\BlinkApp.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\linux-x64\\staticwebassets\\msbuild.buildTransitive.BlinkApp.props",
+      "PackagePath": "buildTransitive\\BlinkApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

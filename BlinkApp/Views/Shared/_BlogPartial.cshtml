@@ -1,0 +1,25 @@
+﻿@model List<BlogItems>
+
+@foreach (BlogItems item in Model)
+{
+    <div class="col-lg-6 col-md-6 col-12 wow fadeInUp" data-wow-delay=".4s">
+
+        <div class="single-blog-grid">
+            <div class="blog-img">
+                <a href="blog-single.html">
+                    <img src="~/assets/images/blog/@item.Image" alt="#">
+                </a>
+            </div>
+            <div class="blog-content">
+                <a class="category" href="javascript:void(0)">@item.Blog</a>
+                <h4>
+                    <a href="blog-single.html">@item.Title</a>
+                </h4>
+                <p>
+                    @item.Text
+                </p>
+                <a href="blog-single.html" class="more-btn">Read Blog <i class="lni lni-arrow-right"></i></a>
+            </div>
+        </div>
+    </div>
+}

@@ -1,0 +1,63 @@
+﻿@model BlinkApp.Models.BlogItems
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="ml-5">
+    <h1>Create</h1>
+    <h4>BlogItems</h4>
+    <hr />
+
+    <div class="row">
+        <div class="col-md-8">
+            <form asp-action="Create" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="Img" class="control-label"></label>
+                    <input type="file" asp-for="Img" class="form-control" accept="image/*" />
+                    <span asp-validation-for="Img" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Blog" class="control-label"></label>
+                    <textarea asp-for="Blog" class="form-control" rows="4"></textarea>
+                    <span asp-validation-for="Blog" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Title" class="control-label"></label>
+                    <input asp-for="Title" class="form-control" />
+                    <span asp-validation-for="Title" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Text" class="control-label"></label>
+                    <textarea asp-for="Text" class="form-control" rows="4"></textarea>
+                    <span asp-validation-for="Text" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="ReadMoreLink" class="control-label"></label>
+                    <input asp-for="ReadMoreLink" class="form-control" />
+                    <span asp-validation-for="ReadMoreLink" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div>
+        <a asp-action="Index">Back to List</a>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
